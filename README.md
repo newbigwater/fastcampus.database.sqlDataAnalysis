@@ -2,5 +2,4 @@
 * https://fastcampus.co.kr/data_online_sql
 * https://kdigital.fastcampus.app/
 
-__국비지원__
-__국비지원__
+__[국비지원]__ __[내일배움카드__ __[K-Digital 기초역량훈련]__
