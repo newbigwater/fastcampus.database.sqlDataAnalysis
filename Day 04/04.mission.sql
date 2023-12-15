@@ -51,6 +51,7 @@ where attack < 50 or defense < 50;
 -- 노말 타입이 아닌 포켓몬들의 데이터를 전부 가져와 주세요.
 select * from pokemon.mypokemon
 where type != 'normal';
+#where NOT(type = 'normal');
 
 # Mission 07
 -- 타입이 (normal, fire, water, grass) 중에 하나인 포켓몬들의 이름과 타입을 가져와 주세요.
