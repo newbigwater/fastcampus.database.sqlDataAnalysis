@@ -3,5 +3,5 @@
 * https://kdigital.fastcampus.app/
 
 __[국비지원]__ 
-__[내일배움카드__ 
+__[내일배움카드]__ 
 __[K-Digital 기초역량훈련]__
